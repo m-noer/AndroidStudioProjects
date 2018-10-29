@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MyIntentApp</string>
-    <string name="btn1">Button</string>
-    <string name="btn2">Button</string>
-    <string name="btn3">Button</string>
-    <string name="btn4">Button</string>
-    <string name="textview">TextView</string>
-    <string name="btn5">Button</string>
-</resources>

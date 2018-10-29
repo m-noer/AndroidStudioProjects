@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">MyIntentApp</string>
-    <string name="btn1">PINDAH ACTIVITY</string>
-    <string name="txtResult">Hasil dari Activity</string>
-</resources>
